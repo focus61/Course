@@ -1,0 +1,64 @@
+{
+  "ContactBook" : [
+	{
+	  "birthday" : [
+		17,
+		9,
+		1995
+	  ],
+	  "lastName" : "Афонин",
+	  "firstName" : "Евгений",
+	  "phoneNumber" : "12345678910"
+	},
+	{
+	  "firstName" : "Михаил",
+	  "lastName" : "Балабанов",
+	  "birthday" : [
+		4,
+		2,
+		1995
+	  ],
+	  "phoneNumber" : "01987654321"
+	},
+	{
+	  "firstName" : "Анна",
+	  "lastName" : "Иванова",
+	  "birthday" : [
+		2,
+		2,
+		1995
+	  ],
+	  "phoneNumber" : "11111111111"
+	},
+	{
+	  "firstName" : "Николай",
+	  "lastName" : "Иванов",
+	  "birthday" : [
+		2,
+		2,
+		1995
+	  ],
+	  "phoneNumber" : "22331130011"
+	},
+	{
+	  "firstName" : "Петя",
+	  "lastName" : "Петров",
+	  "birthday" : [
+		6,
+		7,
+		2000
+	  ],
+	  "phoneNumber" : "79215112445"
+	},
+	{
+	  "firstName" : "Петя",
+	  "lastName" : "Иванов",
+	  "birthday" : [
+		6,
+		7,
+		1988
+	  ],
+	  "phoneNumber" : "79215112444"
+	}
+  ]
+}
